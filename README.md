@@ -2,7 +2,9 @@
 
 Profissional de dados com atuação em **Data Analytics, Data Engineering, Business Intelligence, AI e Automation**, com foco em transformar dados e tecnologia em soluções práticas.
 
-Este espaço nasceu dos desafios reais que encontro no dia a dia. Aqui compartilho projetos, notebooks, scripts e soluções que desenvolvi para resolver problemas práticos e que também podem ser úteis para você em algum momento.
+## 🎯 Objetivo
+
+Transformar desafios reais do dia a dia em projetos, notebooks, scripts e soluções reutilizáveis, compartilhando aprendizados que possam ajudar outras pessoas a resolver problemas semelhantes.
 
 ## 💡 Áreas de atuação
 
