@@ -52,5 +52,5 @@ Projeto em desenvolvimento para explorar a **detecção de possíveis fraudes em
 
 Se algum projeto daqui te ajudar, gerar uma ideia ou se você quiser trocar experiências sobre dados, analytics, engenharia, IA ou automação, fique à vontade para entrar em contato.
 
-- 💼 LinkedIn
+- 💼 LinkedIn: https://www.linkedin.com/in/rodrigo-de-moraes-melo-598219140/
 - 🐙 GitHub: [@rodrigodemoraesmelo](https://github.com/rodrigodemoraesmelo)
