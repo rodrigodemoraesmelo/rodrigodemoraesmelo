@@ -8,7 +8,7 @@ Transformar desafios reais do dia a dia em projetos, notebooks, scripts e soluç
 
 ## 💡 Áreas de atuação
 
-📊 Data Analytics & Business Intelligence • ⚙️ Data Engineering • 🤖 AI & Automation • 🛡️ BI Governance • 🏗️ Data Platforms & Architecture
+📊 Data Analytics & Business Intelligence • ⚙️ Data Engineering • 🤖 AI & Automation • 🛡️ BI Governance • 🏗️ Data Platforms & Architecture • 🔄 CI/CD & DevOps
 
 ## 🛠️ Tecnologias
 
