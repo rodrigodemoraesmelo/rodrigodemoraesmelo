@@ -36,8 +36,9 @@ Este espaço nasceu dos desafios reais que encontro no dia a dia. Aqui compartil
 ## 🏅 Certificações
 
 ### ✅ Conquistadas
-- **Microsoft Certified: Fabric Analytics Engineer Associate** — DP-600 | Setembro/2026
-- **Microsoft Certified: Fabric Data Engineer Associate** — DP-700 | Outubro/2026
+
+- **Microsoft Certified: Fabric Analytics Engineer Associate** — DP-600 | Set/2026 → Set/2027
+- **Microsoft Certified: Fabric Data Engineer Associate** — DP-700 | Out/2026 → Out/2027
 
 ### 🔄 Em progresso
 - **Microsoft Certified: Power BI Data Analyst Associate** — PL-300
